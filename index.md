@@ -1,4 +1,4 @@
-# Dr. Luz Angélica Caudillo-Mata, PhD
+# Luz Angélica Caudillo-Mata, PhD
 
 ##### Computational Scientist | Applied Mathematician | Industrial Postdoctoral Fellow | AI Researcher | Bridge Builder
 
