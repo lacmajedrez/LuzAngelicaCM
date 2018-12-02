@@ -3,7 +3,10 @@ title: Luz Angélica Caudillo-Mata, PhD
 author: Luz Angélica Caudillo-Mata
 email: lcaudill@eoas.ubc.ca
 description: > # this means to ignore newlines until "baseurl:"
-  Computational Scientist | Applied Mathematician | Industrial Postdoctoral Fellow | AI Researcher | Bridge Builder
+  Computational Mathematician | Industrial Postdoctoral Fellow in AI | Bridge Builder
+
+# photo
+logo: /assets/images/luz.jpg
 
 # social links
 twitter_username: lacaudillomata
