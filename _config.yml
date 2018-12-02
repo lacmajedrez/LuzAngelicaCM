@@ -1,1 +1,24 @@
+# Site settings
+title: Luz Angélica Caudillo-Mata, PhD
+name: Luz Angélica Caudillo-Mata
+email: lacmajedrez@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Professional website of Luz Angélica Caudillo-Mata
+baseurl: "" # the subpath of your site, e.g. /blog
+# social links
+github_username:  lacmajedrez
+
+
+author:
+  name   : "Luz Angélica Caudillo-Mata"
+  avatar : "/assets/images/luz.jpg"
+  bio    : >-
+    Computational Scientist | Applied Mathematician | Industrial Postdoctoral Fellow | AI Researcher | Bridge Builder
+  linkedin: luzangelicacm
+
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
 theme: jekyll-theme-minimal
+
+
