@@ -1,15 +1,13 @@
 # Site settings
-
 title: Luz Angélica Caudillo-Mata, PhD
 author: Luz Angélica Caudillo-Mata
 email: lcaudill@eoas.ubc.ca
 description: > # this means to ignore newlines until "baseurl:"
   Professional website of Luz Angélica Caudillo-Mata
-baseurl: "" # the subpath of your site, e.g. /blog
+
 # social links
 twitter_username: lacaudillomata
 github_username:  lacmajedrez
-linkedin_username: luzangelicacm
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
