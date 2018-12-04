@@ -12,6 +12,9 @@ logo: /assets/images/luz.jpg
 twitter_username: lacaudillomata
 github_username:  lacmajedrez
 
+plugins:
+   - jekyll-include-cache
+
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: jekyll-theme-minimal
